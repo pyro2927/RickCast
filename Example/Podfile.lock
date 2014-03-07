@@ -1,0 +1,17 @@
+PODS:
+  - google-cast-sdk (2.0)
+  - RickCast (0.1.0):
+    - google-cast-sdk (~> 2.0)
+
+DEPENDENCIES:
+  - RickCast (from `../`)
+
+EXTERNAL SOURCES:
+  RickCast:
+    :path: ../
+
+SPEC CHECKSUMS:
+  google-cast-sdk: c33ee8811d7479ffad86c870fcb3a0cc177396cd
+  RickCast: 625eb618dd616eaf5af941ef4ff2a81311a034e4
+
+COCOAPODS: 0.29.0
